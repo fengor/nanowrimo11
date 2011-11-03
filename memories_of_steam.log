@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.5.10)  2 NOV 2011 19:26
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.5.10)  3 NOV 2011 16:37
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -71,7 +71,11 @@ Chapter 2.
 Chapter 3.
 (./story_murder.tex [7
 
-]) [8] (./memories_of_steam.aux) ) 
+] [8]) [9] (./memories_of_steam.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  403 strings out of 495061
  5005 string characters out of 1182621
@@ -80,13 +84,13 @@ Here is how much of TeX's memory you used:
  7588 words of font info for 27 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  29i,6n,19p,3977b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on memories_of_steam.pdf (8 pages, 74771 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr17.pfb>
+Output written on memories_of_steam.pdf (9 pages, 78916 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
